@@ -2,7 +2,7 @@
 
 - 🎓 Java Development & Integration degree from Campus Mölndal
 - 💼 Previous Software Development Intern at Cypoint Infinity
-- 🔭 I’m currently working on a fun fullstack project hosted on AWS!
+- 🔭 I’m currently working on a Java/React [Budget Tracker](https://github.com/EllenHalv/budget-tracker)!
 - 🌱 I’m currently learning frontend/fullstack development (Java/React)
 
 <div align="center">
