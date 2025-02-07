@@ -1,5 +1,6 @@
 ## Hi there I'm Ellen👋👩‍💻
 
+- 🌐 I just published my new [Web Portfolio](https://github.com/EllenHalv/my-portfolio)! Have a look!
 - 🎓 Java Development & Integration degree from Campus Mölndal
 - 💼 Previous Software Development Intern at Cypoint Infinity
 - 🔭 I’m currently working on a Java/React [Budget Tracker](https://github.com/EllenHalv/budget-tracker)!
